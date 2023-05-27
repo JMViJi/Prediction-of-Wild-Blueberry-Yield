@@ -43,6 +43,14 @@ You can install these dependencies using the following command:
 3. Execute each cell in the notebook sequentially to reproduce the analysis and predictions.
 4. Customize the notebook as needed for your own analysis.
 
+## Contributions and Collaboration
+
+If you're interested in contributing to this project, you're welcome to do so! You can fork this repository, work on your own branch, and submit a pull request with your contributions.
+
+## Contact
+
+If you have any questions or want to get in touch regarding this project, you can email me at [josevillalbajimenez@gmail.com].
+
 ## Acknowledgments
 This notebook was created for the "Prediction of Wild Blueberry Yield" competition. The dataset and competition details can be found at [competition-link].
 
