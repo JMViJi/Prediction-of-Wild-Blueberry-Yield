@@ -52,6 +52,6 @@ If you're interested in contributing to this project, you're welcome to do so! Y
 If you have any questions or want to get in touch regarding this project, you can email me at [josevillalbajimenez@gmail.com].
 
 ## Acknowledgments
-This notebook was created for the "Prediction of Wild Blueberry Yield" competition. The dataset and competition details can be found at [competition-link].
+This notebook was created for the "Prediction of Wild Blueberry Yield" competition. The dataset and competition details can be found at "[Prediction of Wild Blueberry Yield][competition-link]"
 
-[competition-link]: [https://www.example.com](https://www.kaggle.com/competitions/playground-series-s3e14)
+[competition-link]: https://www.kaggle.com/competitions/playground-series-s3e14
